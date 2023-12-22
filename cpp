@@ -1,1 +1,3 @@
-using name
+using namespace std;
+include <iostream>
+
